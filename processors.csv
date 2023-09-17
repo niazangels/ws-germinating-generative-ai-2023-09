@@ -1,0 +1,11 @@
+Microprocessor,Description
+Intel 8086,"The first 16-bit microprocessor, introduced in 1978, and the basis for the x86 architecture."
+Intel 80386 (i386),"A 32-bit microprocessor, part of the x86 family, offering improved performance and memory capabilities."
+Intel Pentium,A highly successful microprocessor family known for its performance and multimedia capabilities.
+AMD Ryzen,Modern high-performance processors known for their multi-core architecture and competitive performance.
+ARM Cortex-A series,"A family of processors designed for mobile devices and embedded systems, known for energy efficiency."
+IBM POWER9,"Used in high-performance computing and data centers, offering scalability and reliability."
+Apple M1,"Apple's ARM-based processor, known for its performance and efficiency in Mac computers."
+Qualcomm Snapdragon,"Found in many Android devices, known for its integration of CPU, GPU, and modem."
+Raspberry Pi (ARM),"A low-cost, single-board computer with ARM-based processors, used for educational and DIY projects."
+NVIDIA Tegra,"Used in mobile devices and embedded systems, known for its graphics processing capabilities."
